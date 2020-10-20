@@ -5,7 +5,7 @@ testing twitter's api
 
 **Clone repository**
 ```
-https://github.com/tweetbrain/twitter-test
+git clone https://github.com/tweetbrain/twitter-test
 ```
 
 **Navigate into repository**
