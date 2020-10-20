@@ -5,7 +5,7 @@ testing twitter's api
 
 **Clone repository**
 ```
-git clone https://github.com/nananananate/startsmart-backend-version
+https://github.com/tweetbrain/twitter-test
 ```
 
 **Navigate into repository**
